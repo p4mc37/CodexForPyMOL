@@ -1,0 +1,10 @@
+work/
+outputs/
+__pycache__/
+*.py[cod]
+*.log
+*.pse
+*.bak
+cx_workspace.json
+.env
+.env.*

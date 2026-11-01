@@ -1,6 +1,6 @@
-# CX for PyMOL
+# Codex for PyMOL
 
-CX 是一个将本机 Codex CLI 接入 PyMOL 的社区插件，可在停靠面板中对话、查看模型生成的代码并直接操作当前结构。它不是 OpenAI 或 PyMOL 的官方产品。
+Codex for PyMOL 是一个将本机 Codex CLI 接入 PyMOL 的社区插件，可在停靠面板中对话、查看模型生成的代码并直接操作当前结构。它不是 OpenAI 或 PyMOL 的官方产品。
 
 当前版本：0.7.0。当前安装脚本适用于 Windows；已在 Windows 的 PyMOL 3.1.8 Qt 图形界面验证。其他系统和版本尚未验证。
 
